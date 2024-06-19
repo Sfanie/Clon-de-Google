@@ -2,7 +2,7 @@
 ### Hello
 Clon de google: Es un proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO.
 
-![Captura clon de google](assets/Captura1.png)
+![Captura clon de google](assets/Captura.png)
 Visítalo: 
 [Clon de google](https://idyllic-trifle-ba5876.netlify.app)
 

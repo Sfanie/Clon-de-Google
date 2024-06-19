@@ -4,7 +4,7 @@ Clon de google: Es un proyecto realizado con la intención de aplicar los conoci
 
 ![Captura clon de google](assets/Captura.png)
 Visítalo: 
-[Clon de google](https://idyllic-trifle-ba5876.netlify.app)
+[Clon de google](https://clon-de-google-0.netlify.app/)
 
 Este proyecto llevó la suma de los conocimientos aprendidos, con el objetivo de crear un clon idéntico de https://www.google.com/. 
 
